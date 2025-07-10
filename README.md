@@ -1,20 +1,22 @@
-# Task 01 – Text Generation with GPT-2
+# PRODIGY_GenAI_01
+Task 1 - Text Generation using GPT-2 | Prodigy InfoTech Generative AI Internship
 
-This is my submission for Task 1 of the Generative AI internship at Prodigy InfoToc.
-
-## What I Did
-- Fine-tuned a GPT-2 model using a small custom dataset
-- Learned how text tokenization and model training works
-- Used Google Colab and Hugging Face Transformers for the implementation
-
-## Tools Used
+## 🧰 Tools & Libraries
 - Python
-- Google Colab
+- Google Colab / VS Code
 - Hugging Face Transformers
+- Pre-trained GPT-2 Model
 
-## Sample Output
-> AI is a company that has been working on a new way to make the Internet more accessible to everyone...
+## 📁 Files
+- `PRODIGY_GenAI_Task01_GPT2(2).ipynb` – Notebook containing code and output
 
-## File
-- `PRODIGY_INFOTOC_Task01_GPT2.ipynb` – Notebook with full code and steps
+## 📚 Learning Outcome
+- Learned how to use a pre-trained GPT-2 model for natural language generation
+- Understood the basics of prompt-based text generation
+- Practiced with Hugging Face's tokenizer and model pipeline
+
+---
+
+✅ **Task 1 Completed for Generative AI Internship – Prodigy InfoTech**
+
 
